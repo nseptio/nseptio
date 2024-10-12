@@ -1,6 +1,5 @@
----
 
-<img align="center" height="150" src="noa.gif"  />
+<img align="center" height="150" src="neko-reset.gif"  />
 
 ---
 
