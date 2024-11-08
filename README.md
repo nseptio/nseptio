@@ -13,3 +13,4 @@ I'm passionate about building reliable, maintainable, and scalable web applicati
 
 ### 📝 My Latest Medium Articles - [@septio](https://medium.com/@septio)
 [![My Medium story](https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@septio&index=0&source=medium)](#)
+[![My Medium story](https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@septio&index=1&source=medium)](#)
