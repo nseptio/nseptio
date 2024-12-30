@@ -12,3 +12,5 @@ I'm passionate about building reliable, maintainable, and scalable web applicati
 <be>
 
 ### 📝 Find me at [Medium Blog](https://septio.medium.com/)
+
+> I use [NixOS](https://nixos.org/), btw ❄️
